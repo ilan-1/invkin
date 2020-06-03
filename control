@@ -1,0 +1,8 @@
+control using keyboard
+(up-arrow,down-arrow) y-axis
+(right-arrow,left-arrow) x-axis
+(q,a) z axis
+
+control using keyboard and mouse
+(q,a) z axis
+To move in x-y plane use mouse 
